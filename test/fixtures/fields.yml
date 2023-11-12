@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: one
+  field_name: MyString
+  field_alias: MyString
+  field_used: false
+  field_many: false
+
+two:
+  data: two
+  field_name: MyString
+  field_alias: MyString
+  field_used: false
+  field_many: false
